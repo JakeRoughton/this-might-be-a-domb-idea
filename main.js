@@ -5,13 +5,13 @@ para.innerText = "Lorem ipsum dolor amet viral meh selfies drinking vinegar, int
 let head = document.querySelector('h1');
 head.style.fontSize = "48px"
 
-let item13 = document.querySelector("#item-13")
-item13.style.opacity = ".3"
+let item13 = document.querySelector("#item-13");
+item13.style.opacity = ".5"
 
-let item3 = document.querySelector("#item-3")
+let item3 = document.querySelector("#item-3");
 item3.innerText = "Hi"
 
-let image = document.querySelector("img")
+let image = document.querySelector("img");
 image.src = "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a3612a13-3a4b-4c9e-adb1-5a0f60091611/dbcjt0k-540930dc-f62f-49b3-a495-344d29b616fb.png/v1/fill/w_1268,h_630,q_70,strp/space_engineers__journey_2_by_ivanlaliashvili_dbcjt0k-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Nzk1IiwicGF0aCI6IlwvZlwvYTM2MTJhMTMtM2E0Yi00YzllLWFkYjEtNWEwZjYwMDkxNjExXC9kYmNqdDBrLTU0MDkzMGRjLWY2MmYtNDliMy1hNDk1LTM0NGQyOWI2MTZmYi5wbmciLCJ3aWR0aCI6Ijw9MTYwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.j5lqWctYQpPKNWPHCvPBPDNcRsAxmsUcpl2Jp-SiGB8"
 image.style.height = "300px"
 
